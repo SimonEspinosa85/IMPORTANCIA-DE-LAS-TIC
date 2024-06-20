@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Impacto de las TIC</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>Impacto de las Tecnologías de Información y Comunicación (TIC)</h1>
+    </header>
+
+    <section id="transformacion">
+        <h2>Transformación de los sistemas organizacionales:</h2>
+        <ul>
+            <li>Las TIC han permitido la implementación de sistemas integrados de gestión empresarial (ERP), que centralizan datos y procesos de múltiples áreas como finanzas, recursos humanos, ventas y logística, optimizando la toma de decisiones y la eficiencia operativa.</li>
+            <li>La automatización de procesos mediante sistemas de gestión documental, workflows electrónicos y robótica procesal ha reducido costos, minimizado errores y agilizado flujos de trabajo en las organizaciones.</li>
+            <li>El uso de Business Intelligence (BI) y análisis de datos avanzados ha proporcionado a las empresas insights estratégicos para mejorar la toma de decisiones, identificar oportunidades de mercado y optimizar la cadena de suministro.</li>
+        </ul>
+    </section>
+
+    <section id="comunicacion">
+        <h2>Cambios en la comunicación y la colaboración:</h2>
+        <ul>
+            <li>Las TIC han facilitado la comunicación instantánea y global a través de plataformas como correo electrónico, mensajería instantánea, videoconferencias y redes sociales empresariales, reduciendo barreras geográficas y temporales.</li>
+            <li>Herramientas de colaboración en línea como Google Workspace, Microsoft Teams y plataformas de gestión de proyectos han mejorado la coordinación y el trabajo en equipo, permitiendo compartir información, colaborar en documentos y realizar reuniones virtuales de manera eficiente.</li>
+            <li>La adopción de sistemas de gestión del conocimiento (KM) ha facilitado la captura, organización y distribución de información relevante dentro de las organizaciones, fomentando la innovación y el aprendizaje organizacional.</li>
+        </ul>
+    </section>
+
+    <section id="impacto">
+        <h2>Impacto en la sociedad:</h2>
+        <ul>
+            <li>Las TIC han contribuido a la democratización del conocimiento y la educación a través de plataformas de aprendizaje en línea, cursos masivos abiertos (MOOCs) y recursos educativos digitales, ampliando el acceso a la educación en todo el mundo.</li>
+            <li>La transformación digital de sectores como la salud, el transporte, la agricultura y la energía ha mejorado la eficiencia, la calidad de vida y la sostenibilidad ambiental, generando impactos positivos en la sociedad.</li>
+            <li>La economía digital y el comercio electrónico han impulsado la creación de empleo en áreas como desarrollo de software, marketing digital, análisis de datos y ciberseguridad, contribuyendo al crecimiento económico y la innovación tecnológica.</li>
+        </ul>
+    </section>
+
+    <footer>
+        <h3>Referencias bibliográficas:</h3>
+        <ol>
+            <li>Turban, E., Leidner, D., McLean, E., & Wetherbe, J. (2018). Information Technology for Management: Digital Strategies for Insight, Action, and Sustainable Performance. John Wiley & Sons.</li>
+            <li>Schwalbe, K. (2020). Information Technology Project Management. Cengage Learning.</li>
+            <li>McFarlan, F. W., & Nolan, R. L. (2008). How to Manage an IT Outsourcing Alliance. MIT Sloan Management Review, 49(3), 23-35.</li>
+            <li>Brynjolfsson, E., & McAfee, A. (2014). The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies. W. W. Norton & Company.</li>
+        </ol>
+    </footer>
+</body>
+
+</html>
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header, footer {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+}
+
+h1, h2, h3 {
+    margin-bottom: 0.5rem;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+ul, ol {
+    margin-left: 2rem;
+}
+
+footer {
+    margin-top: 2rem;
+}
+
+footer ol {
+    list-style-type: decimal;
+}
